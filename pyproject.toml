@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "netbox-proxbox"
+name = "itjamie-netbox-proxbox"
 version = "v0.0.5"
 description = "Netbox Plugin - Integrate Proxmox and Netbox"
 readme = "README.md"

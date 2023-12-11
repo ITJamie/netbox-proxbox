@@ -14,7 +14,7 @@ with open("README.md", "r") as fh:
 
 version = "0.0.5"
 github = 'https://github.com/netdevopsbr/netbox-proxbox'
-name = "netbox-proxbox"
+name = "itjamie-netbox-proxbox"
 python_min_version = "3.10"
 
 # Proxbox dependencies
